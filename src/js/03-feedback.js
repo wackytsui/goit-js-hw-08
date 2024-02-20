@@ -1,3 +1,4 @@
+//import throttle
 import throttle from "lodash.throttle";
 
 document.addEventListener('DOMContentLoaded', function () {
